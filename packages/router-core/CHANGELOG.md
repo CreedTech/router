@@ -1,5 +1,16 @@
 # @tanstack/router-core
 
+## 1.171.35
+
+### Patch Changes
+
+- [#8605](https://github.com/TanStack/router/pull/8605) [`dfe3dea`](https://github.com/TanStack/router/commit/dfe3dea88a28400db1677111e2b15ae7914782c2) - Drop a duplicated current-location flag and a redundant `createHref` wrapper.
+
+- [#8605](https://github.com/TanStack/router/pull/8605) [`dfe3dea`](https://github.com/TanStack/router/commit/dfe3dea88a28400db1677111e2b15ae7914782c2) - Use `slice` instead of `substring` where the bounds are always ordered and non-negative.
+
+- Updated dependencies [[`dfe3dea`](https://github.com/TanStack/router/commit/dfe3dea88a28400db1677111e2b15ae7914782c2), [`dfe3dea`](https://github.com/TanStack/router/commit/dfe3dea88a28400db1677111e2b15ae7914782c2), [`dfe3dea`](https://github.com/TanStack/router/commit/dfe3dea88a28400db1677111e2b15ae7914782c2), [`dfe3dea`](https://github.com/TanStack/router/commit/dfe3dea88a28400db1677111e2b15ae7914782c2)]:
+  - @tanstack/history@1.162.5
+
 ## 1.171.34
 
 ### Patch Changes
